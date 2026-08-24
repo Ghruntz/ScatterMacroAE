@@ -1,1 +1,1 @@
-﻿Improved license status, expiry handling, and startup reliability.
+﻿Simplified the license activation confirmation with plan duration details.
