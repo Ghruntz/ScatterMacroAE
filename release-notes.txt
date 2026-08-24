@@ -1,1 +1,1 @@
-﻿Moved unit configs beside the macro for easier access.
+﻿License status now shows your plan and remaining time.
