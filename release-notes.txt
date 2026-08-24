@@ -1,1 +1,1 @@
-﻿Free users now see only Story and Raid. Premium modes appear after license activation.
+﻿Improved startup flow: the dashboard now waits until license access is ready.
