@@ -1,1 +1,1 @@
-﻿Added launch loading, Free Story/Raid access, and license activation for premium modes.
+﻿Free users now see only Story and Raid. Premium modes appear after license activation.
