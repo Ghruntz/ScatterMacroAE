@@ -1,1 +1,1 @@
-﻿Improved startup update handling and license access flow.
+﻿Keeps the startup update prompt above the loading screen.
