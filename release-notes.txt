@@ -1,1 +1,1 @@
-﻿Cleaner Settings page and a simpler update experience.
+﻿Discord error and update notifications now default to off.
