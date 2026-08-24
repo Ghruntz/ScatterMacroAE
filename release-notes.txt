@@ -1,1 +1,1 @@
-﻿License status now shows your plan and remaining time.
+﻿Improved license status, expiry handling, and startup reliability.
