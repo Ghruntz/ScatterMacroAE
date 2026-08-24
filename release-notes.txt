@@ -1,1 +1,1 @@
-﻿Improved startup flow: the dashboard now waits until license access is ready.
+﻿Fixed updater restart for macro folders and files with spaces.
