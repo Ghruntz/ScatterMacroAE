@@ -1,1 +1,1 @@
-﻿Discord error and update notifications now default to off.
+﻿More reliable update checks with a simpler connection flow.
