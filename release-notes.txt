@@ -1,1 +1,1 @@
-﻿More reliable update checks with a simpler connection flow.
+﻿Added launch loading, Free Story/Raid access, and license activation for premium modes.
