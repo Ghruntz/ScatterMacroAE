@@ -1,1 +1,1 @@
-﻿Improved license status, expiry handling, and startup reliability.
+﻿Improved startup update handling and license access flow.
