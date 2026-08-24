@@ -1,1 +1,1 @@
-﻿Simplified Discord license commands and updated ScatterMacro branding.
+﻿Moved unit configs beside the macro for easier access.
