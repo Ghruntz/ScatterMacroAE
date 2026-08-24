@@ -1,1 +1,1 @@
-﻿Improved license status, expiry handling, and startup reliability.
+The EXE update channel is being prepared.
