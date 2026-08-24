@@ -1,1 +1,1 @@
-﻿Fixed updater restart for macro folders and files with spaces.
+﻿Simplified Discord license commands and updated ScatterMacro branding.
