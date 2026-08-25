@@ -1,1 +1,1 @@
-﻿Removed native control borders, moved the private server link above Discord notifications, and force Hard difficulty for Infinite and Mastery story acts.
+﻿Added Expedition map and difficulty selection, a dedicated setup tool for navigation positions and OCR boxes, and automatic Expedition navigation.
