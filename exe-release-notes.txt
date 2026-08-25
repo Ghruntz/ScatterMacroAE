@@ -1,1 +1,1 @@
-﻿Improved challenge timing and universal detection retries.
+﻿Added challenge details box preview and OCR testing.
