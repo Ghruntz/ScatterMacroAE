@@ -1,1 +1,1 @@
-﻿Updated built-in fixed positions for Story, Raid, Challenges, and Tower navigation.
+﻿Fixed saved navigation-position clicks to use the standard Roblox-relative click path. Added a five-second settle delay after each fixed navigation position click.
