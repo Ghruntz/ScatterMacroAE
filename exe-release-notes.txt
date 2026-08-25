@@ -1,1 +1,1 @@
-﻿Refreshed dashboard, runtime, and settings styling with a richer wine-red panel system and circular saved-position markers.
+﻿Theme colors now update dashboard accent labels and the Discord shortcut treatment immediately.
