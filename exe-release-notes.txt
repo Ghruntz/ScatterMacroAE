@@ -1,1 +1,1 @@
-﻿Added Navigation Positions: capture and save Story, Raid, Challenges, and Tower click points relative to Roblox.
+﻿Reduced temporary OCR scan logging: only non-empty, changed text is shown in Action Output.
