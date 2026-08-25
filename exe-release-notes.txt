@@ -1,1 +1,1 @@
-﻿Reduced temporary OCR scan logging: only non-empty, changed text is shown in Action Output.
+﻿Updated built-in fixed positions for Story, Raid, Challenges, and Tower navigation.
