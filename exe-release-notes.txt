@@ -1,1 +1,1 @@
-﻿Removed visible migration marker files. Migration state is now stored safely in dashboard settings, while existing configs remain protected.
+﻿Removed development-only OCR overlay boxes and the Navigation Positions runtime control. Added an automatic Explorer icon-cache refresh after EXE updates so the ScatterMacro SM icon remains visible.
