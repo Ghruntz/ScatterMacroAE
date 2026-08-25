@@ -1,1 +1,1 @@
-﻿Settings now save with a subtle inline confirmation instead of a popup.
+﻿Added a challenge details box setup button.
