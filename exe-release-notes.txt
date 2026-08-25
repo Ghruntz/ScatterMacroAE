@@ -1,1 +1,1 @@
-﻿Included the required RapidOCR detection runtime.
+﻿Navigation now starts immediately after the startup scan misses, with rapid retries retained for detection.
