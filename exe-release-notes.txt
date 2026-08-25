@@ -1,1 +1,1 @@
-﻿Added challenge details box preview and OCR testing.
+﻿Included the required RapidOCR detection runtime.
