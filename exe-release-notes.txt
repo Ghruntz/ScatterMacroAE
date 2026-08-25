@@ -1,1 +1,1 @@
-﻿Improved detection retries and click stability.
+﻿Improved challenge timing and universal detection retries.
