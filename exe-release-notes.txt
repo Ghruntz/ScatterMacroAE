@@ -1,1 +1,1 @@
-﻿Built in default OCR areas for Story, Raid, Challenges, and Tower navigation; removed their old setup controls and FindText captures.
+﻿Temporarily show every RapidOCR detection-box scan in Action Output; removed Challenge Details setup, view, and test controls.
