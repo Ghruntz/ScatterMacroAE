@@ -1,1 +1,1 @@
-﻿Removed development-only OCR overlay boxes and the Navigation Positions runtime control. Added an automatic Explorer icon-cache refresh after EXE updates so the ScatterMacro SM icon remains visible.
+﻿Tower now uses a dedicated saved Select Stage position. Use SET TOWER SELECT STAGE in Tower mode to capture it. Removed development-only OCR overlays and added Explorer icon-cache refresh after EXE updates.
