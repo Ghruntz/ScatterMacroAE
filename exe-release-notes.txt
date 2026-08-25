@@ -1,1 +1,1 @@
-﻿Embedded the ScatterMacro SM application icon into the EXE. Future release builds now use the same icon automatically.
+﻿Added a target-hover pause before FindText, OCR, navigation, and standard macro clicks so Roblox reliably registers the intended button before clicking.
