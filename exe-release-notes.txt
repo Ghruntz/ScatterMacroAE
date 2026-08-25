@@ -1,1 +1,1 @@
-﻿Added a saved Private Server Link field, strengthened Roblox window detection for reconnect support, and refined runtime card borders.
+﻿Added custom black frames around native dashboard and runtime controls to remove visible white system borders.
