@@ -1,1 +1,1 @@
-﻿Settings now show the licensed Discord account and keep its display name refreshed.
+﻿Polished saved unit-position markers with a wine-red glow.
