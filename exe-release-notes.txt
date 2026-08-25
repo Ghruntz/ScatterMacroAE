@@ -1,1 +1,1 @@
-﻿Improved EXE updates: the installer now waits for Windows to release the old macro process and retries the EXE replacement automatically if the file is briefly locked.
+﻿Settings now show the licensed Discord account and keep its display name refreshed.
