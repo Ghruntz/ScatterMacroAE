@@ -1,1 +1,1 @@
-﻿Short-term access now includes 14 days. Updated plan labels across the macro, website, and Discord.
+﻿Fixed the startup update prompt so it appears above the loading screen.
