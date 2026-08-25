@@ -1,1 +1,1 @@
-﻿Fixed the startup update prompt so it appears above the loading screen.
+﻿Settings now save with a subtle inline confirmation instead of a popup.
