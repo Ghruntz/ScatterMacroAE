@@ -1,1 +1,1 @@
-﻿Added a target-hover pause before FindText, OCR, navigation, and standard macro clicks so Roblox reliably registers the intended button before clicking.
+﻿Removed visible migration marker files. Migration state is now stored safely in dashboard settings, while existing configs remain protected.
