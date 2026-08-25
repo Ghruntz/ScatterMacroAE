@@ -1,1 +1,1 @@
-﻿Theme colors now update dashboard accent labels and the Discord shortcut treatment immediately.
+﻿Enhanced dashboard, runtime, and settings panel borders for a cleaner modern visual hierarchy.
