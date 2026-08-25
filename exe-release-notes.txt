@@ -1,1 +1,1 @@
-﻿Fixed saved navigation-position clicks to use the standard Roblox-relative click path. Added a five-second settle delay after each fixed navigation position click.
+﻿Added a five-second transition wait after Play is clicked, before selecting the saved Story, Raid, Challenges, or Tower navigation position.
