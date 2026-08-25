@@ -1,1 +1,1 @@
-﻿Set the shared Tower Select Stage position to 528, 526 and removed the Tower Select Stage setup control.
+﻿RapidOCR is now packaged with every EXE update at the required runtime location. Start Macro checks for required OCR files and offers an automatic repair download if they are missing.
