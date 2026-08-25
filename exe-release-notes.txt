@@ -1,1 +1,1 @@
-﻿Fixed the Navigation Boxes manager opening error.
+﻿Fixed Navigation Boxes so it opens safely without a runtime owner handle.
