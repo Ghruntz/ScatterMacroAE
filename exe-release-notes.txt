@@ -1,1 +1,1 @@
-﻿Added black frames around runtime unit cards and controls, with a dark native-control theme for buttons and dropdowns.
+﻿Added a saved Private Server Link field, strengthened Roblox window detection for reconnect support, and refined runtime card borders.
