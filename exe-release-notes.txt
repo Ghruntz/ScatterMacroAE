@@ -1,1 +1,1 @@
-﻿Enhanced dashboard, runtime, and settings panel borders for a cleaner modern visual hierarchy.
+﻿Modernized all macro surfaces with dark wine-tinted fields, layered panels, and refined visual hierarchy while preserving the existing layout.
