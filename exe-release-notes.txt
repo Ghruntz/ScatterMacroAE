@@ -1,1 +1,1 @@
-﻿Story, Raid, Challenges, and Tower navigation now use fixed Roblox-relative positions instead of OCR boxes or FindText.
+﻿Added Navigation Positions: capture and save Story, Raid, Challenges, and Tower click points relative to Roblox.
