@@ -1,1 +1,1 @@
-﻿Navigation now waits five seconds only after Play is clicked, before the selected mode button is clicked. Fixed-position clicks proceed immediately.
+﻿Embedded the ScatterMacro SM application icon into the EXE. Future release builds now use the same icon automatically.
