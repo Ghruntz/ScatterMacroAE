@@ -1,1 +1,1 @@
-﻿Navigation now starts immediately after the startup scan misses, with rapid retries retained for detection.
+﻿Mode navigation now uses Roblox-relative OCR boxes for Story, Raid, Challenges, and Tower.
