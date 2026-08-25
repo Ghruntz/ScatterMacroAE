@@ -1,1 +1,1 @@
-﻿Temporarily show every RapidOCR detection-box scan in Action Output; removed Challenge Details setup, view, and test controls.
+﻿Story, Raid, Challenges, and Tower navigation now use fixed Roblox-relative positions instead of OCR boxes or FindText.
