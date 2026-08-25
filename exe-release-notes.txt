@@ -1,1 +1,1 @@
-﻿Added a challenge details box setup button.
+﻿Improved detection retries and click stability.
