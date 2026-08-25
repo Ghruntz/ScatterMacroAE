@@ -1,1 +1,1 @@
-﻿Added Expedition map and difficulty selection, a dedicated setup tool for navigation positions and OCR boxes, and automatic Expedition navigation.
+﻿Moved Expedition Setup to the runtime dashboard and enabled Expeditions to open runtime from the dashboard Start button before beginning navigation.
