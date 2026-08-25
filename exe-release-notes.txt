@@ -1,1 +1,1 @@
-﻿Added default Expedition navigation positions and map and difficulty OCR boxes, while preserving existing user setup values.
+﻿Reduced the shared post-Play navigation delay from five seconds to three seconds.
