@@ -1,1 +1,1 @@
-﻿Added a five-second transition wait after Play is clicked, before selecting the saved Story, Raid, Challenges, or Tower navigation position.
+﻿Navigation now waits five seconds only after Play is clicked, before the selected mode button is clicked. Fixed-position clicks proceed immediately.
