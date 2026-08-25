@@ -1,1 +1,1 @@
-﻿RapidOCR is now packaged with every EXE update at the required runtime location. Start Macro checks for required OCR files and offers an automatic repair download if they are missing.
+﻿Improved EXE updates: the installer now waits for Windows to release the old macro process and retries the EXE replacement automatically if the file is briefly locked.
