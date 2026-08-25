@@ -1,1 +1,1 @@
-﻿Tower now uses a dedicated saved Select Stage position. Use SET TOWER SELECT STAGE in Tower mode to capture it. Removed development-only OCR overlays and added Explorer icon-cache refresh after EXE updates.
+﻿Set the shared Tower Select Stage position to 528, 526 and removed the Tower Select Stage setup control.
