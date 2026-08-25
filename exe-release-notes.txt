@@ -1,1 +1,1 @@
-﻿Replaced filled native-control frames with thin black outlines across the dashboard, runtime, and settings screens.
+﻿Enabled native Windows dark mode to prevent white hover states and made unit index card borders slightly thicker.
