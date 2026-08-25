@@ -1,1 +1,1 @@
-﻿Mode navigation now uses Roblox-relative OCR boxes for Story, Raid, Challenges, and Tower.
+﻿Fixed the Navigation Boxes manager opening error.
