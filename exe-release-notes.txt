@@ -1,1 +1,1 @@
-﻿Moved Expedition Setup to the runtime dashboard and enabled Expeditions to open runtime from the dashboard Start button before beginning navigation.
+﻿Added default Expedition navigation positions and map and difficulty OCR boxes, while preserving existing user setup values.
