@@ -1,1 +1,1 @@
-﻿Polished saved unit-position markers with a wine-red glow.
+﻿Refreshed dashboard, runtime, and settings styling with a richer wine-red panel system and circular saved-position markers.
