@@ -1,1 +1,1 @@
-﻿Fixed Navigation Boxes so it opens safely without a runtime owner handle.
+﻿Built in default OCR areas for Story, Raid, Challenges, and Tower navigation; removed their old setup controls and FindText captures.
