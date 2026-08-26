@@ -1,1 +1,1 @@
-﻿Expedition flow updates, Card Reader setup in the runtime dashboard, bundled Continue Ex and Encounter Node detection patterns, and match-details parsing fix.
+﻿Expedition Start and Continue button watcher runs in the background until the reward, victory, or defeat screen.
