@@ -1,1 +1,1 @@
-﻿The selected mode, map, and act config loads when the runtime opens. Starting is blocked with a clear message when that config has no configured indexes.
+﻿Empty route configs are now reported only when the macro reaches the unit-index phase, not when the start keybind is pressed.
