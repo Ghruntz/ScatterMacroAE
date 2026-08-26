@@ -1,1 +1,1 @@
-﻿Expedition Start and Continue button watcher runs in the background until the reward, victory, or defeat screen.
+﻿Expedition startup now checks visible match details before navigation, loads the saved map config when found, and includes the default Card ReaderEx detection box.
