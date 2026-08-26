@@ -1,1 +1,1 @@
-﻿ContinueEx and Expedition Encounter Node patterns are now automatically saved for users who do not already have their own configured values.
+﻿Updates now seed missing default textstrings, detection boxes, and set positions without overwriting user customizations. Removed the unused Expedition Encounter Node default string.
