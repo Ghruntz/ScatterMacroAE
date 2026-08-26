@@ -1,1 +1,1 @@
-﻿Updates now seed missing default textstrings, detection boxes, and set positions without overwriting user customizations. Removed the unused Expedition Encounter Node default string.
+﻿Expedition Card Reader, Continue, and end-screen scans now wait until all configured unit indexes finish, preventing interference with camera, placement, and upgrade actions.
