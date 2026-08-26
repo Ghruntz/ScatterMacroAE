@@ -1,1 +1,1 @@
-﻿Added a dedicated Continue Ex FindText capture and save field to Expedition Setup.
+﻿Expedition flow updates, Card Reader setup in the runtime dashboard, bundled Continue Ex and Encounter Node detection patterns, and match-details parsing fix.
