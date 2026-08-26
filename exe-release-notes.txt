@@ -1,1 +1,1 @@
-﻿Runtime action output now shows the selected loaded config and its configured index count when opened.
+﻿Improved EXE updates with a three-attempt WinHTTP download, extended timeouts for RapidOCR release archives, and complete ZIP verification before installation.
