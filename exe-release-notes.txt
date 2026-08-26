@@ -1,1 +1,1 @@
-﻿Improved EXE updates with a three-attempt WinHTTP download, extended timeouts for RapidOCR release archives, and complete ZIP verification before installation.
+﻿Improved update download reliability with retries and longer timeouts. Expedition card reader and Continue scans now start only after confirmed match details, and card scans stay quiet until cards are found.
