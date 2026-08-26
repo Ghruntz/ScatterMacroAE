@@ -1,1 +1,1 @@
-﻿Reduced the shared post-Play navigation delay from five seconds to three seconds.
+﻿Added an Expedition Encounter Node FindText capture and save tool to the runtime Expedition Setup window.
