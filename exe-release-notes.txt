@@ -1,1 +1,1 @@
-﻿Improved update download reliability with retries and longer timeouts. Expedition card reader and Continue scans now start only after confirmed match details, and card scans stay quiet until cards are found.
+﻿ContinueEx and Expedition Encounter Node patterns are now automatically saved for users who do not already have their own configured values.
