@@ -1,1 +1,1 @@
-﻿Expedition startup now checks visible match details before navigation, loads the saved map config when found, and includes the default Card ReaderEx detection box.
+﻿Removed Expedition setup and Card Reader setup controls while keeping automatic card reading active.
