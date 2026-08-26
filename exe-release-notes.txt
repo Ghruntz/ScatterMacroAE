@@ -1,1 +1,1 @@
-﻿Added an Expedition Encounter Node FindText capture and save tool to the runtime Expedition Setup window.
+﻿Added saved Expedition card category priorities and Card ReaderEx OCR automation with rarity-first card selection and duplicate avoidance.
