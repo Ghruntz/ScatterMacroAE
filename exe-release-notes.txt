@@ -1,1 +1,1 @@
-﻿Removed Expedition setup and Card Reader setup controls while keeping automatic card reading active.
+﻿The selected mode, map, and act config loads when the runtime opens. Starting is blocked with a clear message when that config has no configured indexes.
