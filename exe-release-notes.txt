@@ -1,1 +1,1 @@
-﻿Expedition card priority now outranks rarity across categories, avoids repeating selected cards while new cards are available, and repeats the best priority card only as a fallback.
+﻿Runtime action output now shows the selected loaded config and its configured index count when opened.
