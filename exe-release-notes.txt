@@ -1,1 +1,1 @@
-﻿Expedition Card Reader, Continue, and end-screen scans now wait until all configured unit indexes finish, preventing interference with camera, placement, and upgrade actions.
+﻿Added ContinueEx2 as a saved default. After ContinueEx is clicked, the Expedition background watcher waits for and clicks ContinueEx2 before resuming the normal sequence.
