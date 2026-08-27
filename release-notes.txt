@@ -1,1 +1,1 @@
-Expedition fixes: Start Game retries safely, Continue Ex and Continue Ex 2 keep scanning through the whole match with a 3-second confirmation delay, and Repeat Stage now resumes without camera setup or rerunning indexes. Added the clipped rain-glass dashboard and runtime appearance.
+Removed the unstable animated UI background. Expedition repeats now wait for fresh match details, then run camera setup and saved indexes again. Continue Ex and Continue Ex 2 remain active through the Expedition with a 3-second confirmation delay.
