@@ -1,1 +1,1 @@
-﻿Added ContinueEx2 as a saved default. After ContinueEx is clicked, the Expedition background watcher waits for and clicks ContinueEx2 before resuming the normal sequence.
+Expedition fixes: Start Game retries safely, Continue Ex and Continue Ex 2 keep scanning through the whole match with a 3-second confirmation delay, and Repeat Stage now resumes without camera setup or rerunning indexes. Added the clipped rain-glass dashboard and runtime appearance.
