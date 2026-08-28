@@ -1,1 +1,1 @@
-Fixed UI updates, made detection scans silent, and delayed match-details OCR until navigation is complete.
+Fixed the UI migration for older installers. The redesigned dashboard now installs from the update.
