@@ -1,1 +1,1 @@
-Removed the unstable animated UI background. Expedition repeats now wait for fresh match details, then run camera setup and saved indexes again. Continue Ex and Continue Ex 2 remain active through the Expedition with a 3-second confirmation delay.
+Fixed UI updates, made detection scans silent, and delayed match-details OCR until navigation is complete.
