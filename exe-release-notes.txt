@@ -1,1 +1,1 @@
-﻿Redesigned live runtime with protected fixed Roblox viewport, live action output, and session stats.
+﻿Fix runtime return behavior, persist Settings changes, and use correct mode-specific map, act, and difficulty options.
