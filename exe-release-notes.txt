@@ -1,1 +1,1 @@
-﻿Fix dashboard return handoff and prevent Auto Fish progress false positives by requiring a live fish and valid meter fill.
+﻿Fix Auto Fish fish tracking by rejecting blue-bar highlights and prioritizing the fish's pale-blue sprite colors.
