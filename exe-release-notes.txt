@@ -1,1 +1,1 @@
-﻿Speed up shared unit placement, upgrade, auto-upgrade, targeting, close-panel, focus, and physical-click timing across every macro mode.
+﻿Improve Auto Fish control responsiveness with predictive fish tracking, a tighter hysteresis zone, faster frame loop, and throttled overlay status writes.
