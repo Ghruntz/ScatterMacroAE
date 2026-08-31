@@ -1,1 +1,1 @@
-﻿Preserve dashboard webhook, Discord ID, and private server settings across UI syncs, restarts, and updates.
+﻿Fix Auto Fish screen-coordinate tracking and recognize the fish's pale-blue visual.
