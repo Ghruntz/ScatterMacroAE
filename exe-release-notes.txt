@@ -1,1 +1,1 @@
-﻿Apply saved primary and accent hex colors consistently across dashboard, settings, and runtime UI.
+﻿Fix Settings blank window, restore Reset Theme, wire update checks and configurable hotkeys, and retain Discord ping settings.
