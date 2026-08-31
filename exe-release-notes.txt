@@ -1,1 +1,1 @@
-﻿Add Auto Fish detector diagnostics and tune recognition using live runtime meter colors.
+﻿Prevent duplicate dashboard, settings, and runtime windows.
