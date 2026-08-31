@@ -1,1 +1,1 @@
-﻿Improve Auto Fish tracking: scan only the lower control lane and require a compact fish-shaped pale-blue or white pixel cluster.
+﻿Add bundled Python real-time vision for Auto Fish: stable blue-bar and fish-shape tracking inside the saved fishing track.
