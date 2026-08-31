@@ -1,1 +1,1 @@
-﻿Move runtime session stats into the header, compact action output, and safely refresh all UI theme colors after Apply or Save.
+﻿Fix update installs when the bundled Python UI helper is running.
