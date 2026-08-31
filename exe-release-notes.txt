@@ -1,1 +1,1 @@
-﻿Apply saved theme colors to all live runtime surfaces, controls, borders, and hover states.
+﻿Move runtime session stats into the header, compact action output, and safely refresh all UI theme colors after Apply or Save.
