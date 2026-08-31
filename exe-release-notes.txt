@@ -1,1 +1,1 @@
-﻿Remove non-applicable route controls, remove theme presets, and apply saved hex theme colors to the dashboard.
+﻿Apply saved primary and accent hex colors consistently across dashboard, settings, and runtime UI.
