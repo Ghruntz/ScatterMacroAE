@@ -1,1 +1,1 @@
-﻿Add bundled Python real-time vision for Auto Fish: stable blue-bar and fish-shape tracking inside the saved fishing track.
+﻿Speed up shared unit placement, upgrade, auto-upgrade, targeting, close-panel, focus, and physical-click timing across every macro mode.
