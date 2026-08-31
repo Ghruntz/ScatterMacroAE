@@ -1,1 +1,1 @@
-﻿Fix Unit Manager paging, Discord test pings, and Settings Apply and Reset behavior.
+﻿Restore all Unit Manager unit slot and targeting mode options.
