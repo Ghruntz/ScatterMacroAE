@@ -1,1 +1,1 @@
-﻿Restore all Unit Manager unit slot and targeting mode options.
+﻿Add Auto Fish mode with live fishing-track pixel control and a one-time track setup tool.
