@@ -1,1 +1,1 @@
-﻿Fix Auto Fish fish tracking by rejecting blue-bar highlights and prioritizing the fish's pale-blue sprite colors.
+﻿Improve Auto Fish tracking: scan only the lower control lane and require a compact fish-shaped pale-blue or white pixel cluster.
