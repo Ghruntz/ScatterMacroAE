@@ -1,1 +1,1 @@
-﻿Fix Auto Fish screen-coordinate tracking and recognize the fish's pale-blue visual.
+﻿Make updates resilient when the bundled UI helper has a file lock.
