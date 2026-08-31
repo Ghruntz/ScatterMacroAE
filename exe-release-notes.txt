@@ -1,1 +1,1 @@
-﻿Fix Settings blank window, restore Reset Theme, wire update checks and configurable hotkeys, and retain Discord ping settings.
+﻿Apply saved theme colors to all live runtime surfaces, controls, borders, and hover states.
