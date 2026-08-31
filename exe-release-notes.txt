@@ -1,1 +1,1 @@
-﻿Make updates resilient when the bundled UI helper has a file lock.
+﻿Add Auto Fish detector diagnostics and tune recognition using live runtime meter colors.
