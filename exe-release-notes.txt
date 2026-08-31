@@ -1,1 +1,1 @@
-﻿Filter Auto Fish blue-track edges and select the real movable control bar by geometry.
+﻿Fix dashboard return handoff and prevent Auto Fish progress false positives by requiring a live fish and valid meter fill.
