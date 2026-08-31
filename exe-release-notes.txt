@@ -1,1 +1,1 @@
-﻿Add Auto Fish mode with live fishing-track pixel control and a one-time track setup tool.
+﻿Preserve dashboard webhook, Discord ID, and private server settings across UI syncs, restarts, and updates.
