@@ -1,1 +1,1 @@
-﻿Prevent duplicate dashboard, settings, and runtime windows.
+﻿Improve Auto Fish live bar detection with full lower-track shape scanning.
