@@ -1,1 +1,1 @@
-﻿Fix update installs when the bundled Python UI helper is running.
+﻿Fix Unit Manager paging, Discord test pings, and Settings Apply and Reset behavior.
