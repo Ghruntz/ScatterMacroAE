@@ -1,1 +1,1 @@
-﻿Improve Auto Fish live bar detection with full lower-track shape scanning.
+﻿Filter Auto Fish blue-track edges and select the real movable control bar by geometry.
