@@ -1,1 +1,1 @@
-﻿Improve Auto Fish control responsiveness with predictive fish tracking, a tighter hysteresis zone, faster frame loop, and throttled overlay status writes.
+﻿Add concise Auto Fish vision state logs for casting, waiting, active fish tracking, and recasting.
