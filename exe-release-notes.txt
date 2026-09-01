@@ -1,1 +1,1 @@
-﻿Fix route selection validation, use direct live Auto Fish control, always stop the vision helper with the macro, and hide the automation host from the taskbar.
+﻿Ensure Auto Fish uses direct current-position control and always stops its vision helper when the macro stops or returns to the dashboard.
