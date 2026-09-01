@@ -1,1 +1,1 @@
-﻿Ensure Auto Fish uses direct current-position control and always stops its vision helper when the macro stops or returns to the dashboard.
+﻿Keep the fish within a centered Auto Fish safety corridor, leaving the outer thirds of the blue bar as direct reaction space.
