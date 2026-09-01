@@ -1,1 +1,1 @@
-﻿Group the Python dashboard and hidden AHK engine under one ScatterMacro taskbar application identity.
+﻿Strengthen Auto Fish tracking with fast bar measurement, smoothed fish/bar motion prediction, and faster proactive corrections.
