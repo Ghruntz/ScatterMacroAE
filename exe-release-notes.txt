@@ -1,1 +1,1 @@
-﻿Restore the compatible bundled dashboard helper after a dashboard startup regression; includes the complete Auto Fish helper.
+﻿Fix dashboard helper update selection, speed configured unit actions and click wiggles, run Continue Ex 2 after Continue Ex, and detect Match Details when starting inside a match.
