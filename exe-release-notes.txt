@@ -1,1 +1,1 @@
-﻿Strengthen Auto Fish tracking with fast bar measurement, smoothed fish/bar motion prediction, and faster proactive corrections.
+﻿Fix route selection validation, use direct live Auto Fish control, always stop the vision helper with the macro, and hide the automation host from the taskbar.
