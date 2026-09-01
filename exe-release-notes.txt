@@ -1,1 +1,1 @@
-﻿Use rapid pulse corrections for normal Auto Fish adjustments and reserve full input only for immediate edge recovery.
+﻿Fix runtime unit cards to read the active config, remove fishing setup/test/overlay buttons, and speed up configured unit actions.
