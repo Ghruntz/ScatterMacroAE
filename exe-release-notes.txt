@@ -1,1 +1,1 @@
-﻿Accelerated shared click input and navigation hover timing for faster macro operations.
+﻿Accelerated unit placement, verified upgrades, auto-upgrade inputs, and unit-panel closing.
