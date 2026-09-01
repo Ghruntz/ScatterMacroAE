@@ -1,1 +1,1 @@
-﻿Fix runtime unit cards to read the active config, remove fishing setup/test/overlay buttons, and speed up configured unit actions.
+﻿Restore the compatible bundled dashboard helper after a dashboard startup regression; includes the complete Auto Fish helper.
