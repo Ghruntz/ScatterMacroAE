@@ -1,1 +1,1 @@
-﻿Accelerated unit placement, verified upgrades, auto-upgrade inputs, and unit-panel closing.
+﻿Restored the native AHK dashboard and runtime. Removed the Python dashboard from the update package while keeping Auto Fish vision.
