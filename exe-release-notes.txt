@@ -1,1 +1,1 @@
-﻿Keep the fish within a centered Auto Fish safety corridor, leaving the outer thirds of the blue bar as direct reaction space.
+﻿Use rapid pulse corrections for normal Auto Fish adjustments and reserve full input only for immediate edge recovery.
