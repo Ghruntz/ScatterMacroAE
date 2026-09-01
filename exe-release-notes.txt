@@ -1,1 +1,1 @@
-﻿Prevent Auto Fish vision from stopping when Windows briefly locks its optional status file.
+﻿Group the Python dashboard and hidden AHK engine under one ScatterMacro taskbar application identity.
