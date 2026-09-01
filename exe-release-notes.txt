@@ -1,1 +1,1 @@
-﻿Fix dashboard helper update selection, speed configured unit actions and click wiggles, run Continue Ex 2 after Continue Ex, and detect Match Details when starting inside a match.
+﻿Stabilized mode routing, startup match detection, configuration profiles, and expedition background handling.
