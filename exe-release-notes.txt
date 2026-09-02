@@ -1,1 +1,1 @@
-﻿Restored the native AHK dashboard and runtime. Removed the Python dashboard from the update package while keeping Auto Fish vision.
+﻿Removed the pre-click mouse wiggle from shared macro and navigation clicks.
