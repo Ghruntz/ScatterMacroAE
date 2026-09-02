@@ -1,1 +1,1 @@
-﻿Removes background unit-level OCR. Manual Upgrade actions still verify their requested level; Auto Upgrade sends K inputs without OCR.
+﻿Improves Expedition difficulty confirmation, adds temporary index timing diagnostics, uses safer unit-action settling and click timing, removes theme controls from Settings, and keeps upgrade-level OCR limited to manual Upgrade actions.
