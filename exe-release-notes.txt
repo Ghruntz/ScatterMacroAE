@@ -1,1 +1,1 @@
-﻿Added a short placement hover and ordered each unit index as upgrades, target mode, then panel close.
+﻿Shortened routine placement, upgrade, target-mode, Auto Upgrade, and Auto Ability waits.
