@@ -1,1 +1,1 @@
-﻿Adds concise elapsed-time diagnostics for unit placement, upgrades, target changes, Auto Ability checks, and panel closing. Expedition background watchers remain paused during index actions.
+﻿Removes background unit-level OCR. Manual Upgrade actions still verify their requested level; Auto Upgrade sends K inputs without OCR.
