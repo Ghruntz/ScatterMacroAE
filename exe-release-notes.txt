@@ -1,1 +1,1 @@
-﻿Removed the pre-click mouse wiggle from shared macro and navigation clicks.
+﻿Updated the Continue Ex 2 FindText pattern.
