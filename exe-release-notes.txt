@@ -1,1 +1,1 @@
-﻿Shortened routine placement, upgrade, target-mode, Auto Upgrade, and Auto Ability waits.
+﻿Expeditions now pauses background Start Game scanning during camera setup and unit indexing, then starts the Start Game, card, and ContinueEx watchers together after indexes finish.
