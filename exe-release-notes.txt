@@ -1,1 +1,1 @@
-﻿Expeditions now pauses background Start Game scanning during camera setup and unit indexing, then starts the Start Game, card, and ContinueEx watchers together after indexes finish.
+﻿Adds concise elapsed-time diagnostics for unit placement, upgrades, target changes, Auto Ability checks, and panel closing. Expedition background watchers remain paused during index actions.
