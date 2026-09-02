@@ -1,1 +1,1 @@
-﻿Continue Ex 2 is now required immediately after Continue Ex and remains the only scanned continue target until it is clicked.
+﻿Added a short placement hover and ordered each unit index as upgrades, target mode, then panel close.
