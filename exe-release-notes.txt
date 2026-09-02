@@ -1,1 +1,1 @@
-﻿Improves Expedition difficulty confirmation, adds temporary index timing diagnostics, uses safer unit-action settling and click timing, removes theme controls from Settings, and keeps upgrade-level OCR limited to manual Upgrade actions.
+﻿Expeditions now clicks ContinueEx immediately after index completion, waits three seconds, then detects and clicks ContinueEx2 immediately. Subsequent Start Game prompts use immediate focus.
