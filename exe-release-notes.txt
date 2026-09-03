@@ -1,1 +1,1 @@
-Fixes the startup syntax error in v1.0.158. Keeps Expeditions ContinueEx and ContinueEx1 runtime detection-box setup.
+Adds Updater.exe, a standalone manual updater that downloads and installs the latest public macro release while preserving saved configs.
