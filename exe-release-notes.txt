@@ -1,1 +1,1 @@
-﻿Expeditions now clicks ContinueEx immediately after index completion, waits three seconds, then detects and clicks ContinueEx2 immediately. Subsequent Start Game prompts use immediate focus.
+﻿Added Expeditions runtime detection-box setup for ContinueEx and ContinueEx1. Removed the retired Python dashboard and Auto Fish components.
