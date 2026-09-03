@@ -1,1 +1,1 @@
-﻿Added Expeditions runtime detection-box setup for ContinueEx and ContinueEx1. Removed the retired Python dashboard and Auto Fish components.
+Fixes the startup syntax error in v1.0.158. Keeps Expeditions ContinueEx and ContinueEx1 runtime detection-box setup.
