@@ -1,1 +1,1 @@
-Expeditions now scans and clicks ContinueEx immediately after indexes complete; its background watcher runs every 50 ms.
+Removes the unnecessary ContinueEx watcher status message from Action Output.
