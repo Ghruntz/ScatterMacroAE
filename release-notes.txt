@@ -1,1 +1,4 @@
-Removed the unstable animated UI background. Expedition repeats now wait for fresh match details, then run camera setup and saved indexes again. Continue Ex and Continue Ex 2 remain active through the Expedition with a 3-second confirmation delay.
+v1.0.169
+- Expedition difficulty confirmation now counts the visible difficulty skulls before OCR fallback.
+- Map and Select Stage navigation retries wait for fresh Roblox frames.
+- Start and Continue buttons retry reliably without competing OCR watchers.
