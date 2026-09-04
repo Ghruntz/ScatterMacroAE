@@ -1,4 +1,4 @@
-v1.0.171
-- Follow-up Start Game prompts in Expeditions remain watched and click automatically.
-- Start watching remains paused during camera setup and unit indexing.
-- Card selection scans every 150ms after indexes complete.
+v1.0.172
+- Runtime dashboard includes SET DIFFICULTY VIEWER for configuring the Expedition difficulty text box.
+- Difficulty confirmation reads the configured Difficulty N text first.
+- Purple skull counting remains a fallback when text OCR is unavailable.
