@@ -1,1 +1,1 @@
-Adds Updater.exe, a standalone manual updater that downloads and installs the latest public macro release while preserving saved configs.
+Finalizes Expeditions ContinueEx detection boxes, removes their setup tools, improves target-mode selection retries, and adds safer unit placement timing.
