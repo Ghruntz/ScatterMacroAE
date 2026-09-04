@@ -1,1 +1,1 @@
-Improves Expedition difficulty detection with a dedicated high-resolution viewer read, preventing unnecessary changer clicks.
+Adds a short hover and precise pointer wiggle before Roblox clicks for more reliable actions.
