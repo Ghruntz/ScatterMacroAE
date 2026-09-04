@@ -1,1 +1,1 @@
-Adds a short hover and precise pointer wiggle before Roblox clicks for more reliable actions.
+Start Game now checks every 50 ms with immediate OCR attempts and faster focus before clicking.
