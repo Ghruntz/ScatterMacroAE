@@ -1,1 +1,1 @@
-Fixes Settings hotkey capture so Start and Stop retain the key you set.
+Improves Expedition difficulty OCR confirmation and retries, with slightly faster menu navigation.
