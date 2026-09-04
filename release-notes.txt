@@ -1,4 +1,4 @@
-v1.0.169
-- Expedition difficulty confirmation now counts the visible difficulty skulls before OCR fallback.
-- Map and Select Stage navigation retries wait for fresh Roblox frames.
-- Start and Continue buttons retry reliably without competing OCR watchers.
+v1.0.170
+- Expedition difficulty selection now reads the purple skull row directly and proceeds in 100ms click cycles.
+- Difficulty selection begins 60ms after the map is clicked.
+- OCR remains only as a final fallback for non-standard UI layouts.
