@@ -1,1 +1,1 @@
-Improves Expedition difficulty OCR confirmation and retries, with slightly faster menu navigation.
+Expeditions now scans and clicks ContinueEx immediately after indexes complete; its background watcher runs every 50 ms.
