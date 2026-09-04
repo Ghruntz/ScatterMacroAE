@@ -1,1 +1,1 @@
-Finalizes Expeditions ContinueEx detection boxes, removes their setup tools, improves target-mode selection retries, and adds safer unit placement timing.
+Fixes Settings hotkey capture so Start and Stop retain the key you set.
