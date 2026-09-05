@@ -1,4 +1,3 @@
-v1.0.173
-- Runtime dashboard restores SET CONTINUE BUTTONS for ContinueEx and ContinueEx1 detection boxes.
-- Continue scanning runs at 75ms and retains the immediate post-index click.
-- Card screens scan at 75ms and take priority over Start Game prompts.
+v1.0.174
+- Update checks use timestamped no-cache requests to prevent stale public version results.
+- Public update feed now reports v1.0.174.
