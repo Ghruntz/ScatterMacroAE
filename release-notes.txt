@@ -1,4 +1,4 @@
-v1.0.172
-- Runtime dashboard includes SET DIFFICULTY VIEWER for configuring the Expedition difficulty text box.
-- Difficulty confirmation reads the configured Difficulty N text first.
-- Purple skull counting remains a fallback when text OCR is unavailable.
+v1.0.173
+- Runtime dashboard restores SET CONTINUE BUTTONS for ContinueEx and ContinueEx1 detection boxes.
+- Continue scanning runs at 75ms and retains the immediate post-index click.
+- Card screens scan at 75ms and take priority over Start Game prompts.
