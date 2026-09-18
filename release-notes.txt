@@ -1,4 +1,4 @@
-v1.0.175
-- Expedition automation now runs through the packaged Python engine while retaining the AHK dashboard, saved settings, hotkeys, unit indexes, and detection profiles.
-- The updater installs the Expedition engine with the normal macro update.
-- Removed the temporary Continue detection setup control from the runtime dashboard.
+v1.0.176
+- Story Normal and Hard difficulty selection now uses saved detection boxes instead of FindText strings.
+- Runtime dashboard includes a Story-only setup control for those two difficulty boxes.
+- Expedition Python engine and existing dashboard/settings integration remain included.
