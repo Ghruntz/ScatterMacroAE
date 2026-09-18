@@ -1,3 +1,3 @@
-v1.0.187
-- Extended Expedition Match Details confirmation to one minute.
-- Starting the macro during an already-active Expedition now confirms AHK Match Details first and begins in-game camera/setup directly instead of navigating.
+v1.0.188
+- Restored viewport-safe AHK camera setup for Expeditions and returns the cursor to the Roblox viewport center.
+- AHK now detects and clicks Start Game before the Python engine begins configured unit indexes.
