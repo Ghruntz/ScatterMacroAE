@@ -1,4 +1,4 @@
-v1.0.177
-- Story navigation uses one saved Story Difficulty detection box covering both Normal and Hard choices.
-- The macro OCRs only that box and clicks the selected difficulty; Normal/Hard FindText strings are no longer used for this step.
-- Fixed Story detection setup initialization.
+v1.0.178
+- Story Difficulty scans now use 5x OCR upscaling.
+- The selected Normal or Hard label must be detected consistently across two scans before it is clicked.
+- The one Story Difficulty detection box remains shared by both choices.
