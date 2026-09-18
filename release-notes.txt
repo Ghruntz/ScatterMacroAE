@@ -1,4 +1,4 @@
-v1.0.176
-- Story Normal and Hard difficulty selection now uses saved detection boxes instead of FindText strings.
-- Runtime dashboard includes a Story-only setup control for those two difficulty boxes.
-- Expedition Python engine and existing dashboard/settings integration remain included.
+v1.0.177
+- Story navigation uses one saved Story Difficulty detection box covering both Normal and Hard choices.
+- The macro OCRs only that box and clicks the selected difficulty; Normal/Hard FindText strings are no longer used for this step.
+- Fixed Story detection setup initialization.
