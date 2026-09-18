@@ -1,3 +1,3 @@
-v1.0.188
-- Restored viewport-safe AHK camera setup for Expeditions and returns the cursor to the Roblox viewport center.
-- AHK now detects and clicks Start Game before the Python engine begins configured unit indexes.
+v1.0.189
+- Replaced the one-shot Expedition Start Game request with a rapid recurring AHK watcher after camera setup.
+- The watcher confirms Start Game to Python before configured index actions begin.
