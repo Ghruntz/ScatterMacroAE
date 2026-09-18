@@ -1,3 +1,3 @@
-v1.0.189
-- Replaced the one-shot Expedition Start Game request with a rapid recurring AHK watcher after camera setup.
-- The watcher confirms Start Game to Python before configured index actions begin.
+v1.0.190
+- AHK now runs configured Expedition indexes after Start Game; Python begins prompt watching only after AHK signals index completion.
+- ContinueEx now stays locked on ContinueEx1 after the first Continue click, preventing repeated clicks on the visible background button.
