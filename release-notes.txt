@@ -1,3 +1,2 @@
-v1.0.191
-- Added a dedicated five-times-upscaled Target Mode OCR reader with clickable results.
-- Target mode reads and menu selections now retry for up to ten seconds instead of stopping an index after three seconds.
+v1.0.192
+- Prevented a new unit from aborting expedition index setup when its Target Mode label cannot be read. Fresh units now cycle from their known First default to the configured target priority.
