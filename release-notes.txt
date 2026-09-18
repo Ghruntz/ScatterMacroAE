@@ -1,4 +1,3 @@
-v1.0.178
-- Story Difficulty scans now use 5x OCR upscaling.
-- The selected Normal or Hard label must be detected consistently across two scans before it is clicked.
-- The one Story Difficulty detection box remains shared by both choices.
+v1.0.179
+- Fixed the Expedition engine bridge reader to accept AHK's UTF-16 INI files.
+- Expedition engine now starts normally when the runtime dashboard sends its run command.
