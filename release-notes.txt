@@ -1,3 +1,3 @@
-v1.0.182
-- Fixed Expeditions failing to click Start after Select Stage.
-- The Expedition engine now asks the macro to use its saved Start-button visual detector, confirms the click, and continues the flow.
+v1.0.183
+- Fixed a sharing-violation crash in the Expedition engine bridge.
+- The engine now retries while AHK updates its handoff file and retains the last valid command and settings.
