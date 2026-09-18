@@ -1,3 +1,3 @@
-v1.0.184
-- Fixed the Expedition engine stopping after Start while it waited for match details.
-- AHK now confirms Match Details through the saved detection box before the engine continues camera setup and indexes.
+v1.0.185
+- Strengthened AHK Expedition Match Details confirmation with non-blocking retries and full map/difficulty validation.
+- Added a short universal wiggle and one-second hover before physical macro clicks.
