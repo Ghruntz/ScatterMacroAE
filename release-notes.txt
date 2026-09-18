@@ -1,3 +1,3 @@
-v1.0.185
-- Strengthened AHK Expedition Match Details confirmation with non-blocking retries and full map/difficulty validation.
-- Added a short universal wiggle and one-second hover before physical macro clicks.
+v1.0.186
+- Returned all Expedition lobby navigation to AHK: Play, Expeditions, map, difficulty, Select Stage, and Start.
+- Python Expedition engine now starts only after the match is launched for in-game Match Details, Start Game, indexes, cards, ContinueEx prompts, repeats, and end screens.
