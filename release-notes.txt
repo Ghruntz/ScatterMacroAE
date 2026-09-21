@@ -1,2 +1,3 @@
-v1.0.192
-- Prevented a new unit from aborting expedition index setup when its Target Mode label cannot be read. Fresh units now cycle from their known First default to the configured target priority.
+v1.0.193
+- Made configured index placement, selection, auto-ability, and close clicks smoother with a short 60 ms hover while retaining the reliability wiggle.
+- Made ContinueEx detection immediate after indexes: Python prioritizes Continue prompts and AHK now runs a saved-box fallback watcher if Python OCR misses a frame.
