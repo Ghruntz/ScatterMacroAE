@@ -1,2 +1,3 @@
-v1.0.198
-- Python now upscales the small Start Game, ContinueEx, and ContinueEx1 detection boxes four times before OCR, matching the reliable AHK button-detection method and mapping text positions back to the correct Roblox click point.
+v1.0.199
+- Added runtime setup buttons to capture fixed Start Game and ContinueEx1 button centers.
+- Start Game and ContinueEx1 are still text-detected first, then AHK and Python click their saved fixed centers. ContinueEx remains dynamically clicked from its detected text position.
