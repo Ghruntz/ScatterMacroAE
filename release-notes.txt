@@ -1,3 +1,2 @@
-v1.0.193
-- Made configured index placement, selection, auto-ability, and close clicks smoother with a short 60 ms hover while retaining the reliability wiggle.
-- Made ContinueEx detection immediate after indexes: Python prioritizes Continue prompts and AHK now runs a saved-box fallback watcher if Python OCR misses a frame.
+v1.0.194
+- Card selection is now a hard Expedition prompt gate. While card choices are visible, Start Game, ContinueEx, and ContinueEx1 are paused. They resume immediately when the card panel clears.
