@@ -1,3 +1,2 @@
-v1.0.199
-- Added runtime setup buttons to capture fixed Start Game and ContinueEx1 button centers.
-- Start Game and ContinueEx1 are still text-detected first, then AHK and Python click their saved fixed centers. ContinueEx remains dynamically clicked from its detected text position.
+v1.0.200
+- Fixed Expedition navigation handoff: once AHK confirms the selected Match Details, it immediately starts camera setup and publishes the ready state to Python. This removes the stalled secondary camera-request step.
