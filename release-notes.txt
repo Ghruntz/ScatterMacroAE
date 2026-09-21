@@ -1,2 +1,3 @@
-v1.0.194
-- Card selection is now a hard Expedition prompt gate. While card choices are visible, Start Game, ContinueEx, and ContinueEx1 are paused. They resume immediately when the card panel clears.
+v1.0.195
+- New unit indexes now set target priority immediately from the known First default instead of waiting up to ten seconds for Target Mode OCR.
+- Added the safe persistent AHK Start Game watcher beside Python after indexes complete, while retaining card-screen gating and ContinueEx fallback detection.
