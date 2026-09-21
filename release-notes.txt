@@ -1,3 +1,2 @@
-v1.0.196
-- Expedition card, Continue, and Start watchers remain active for every prompt throughout the run.
-- Card priority now persists across every card panel in the current run, resetting only for a new macro run or after Repeat Stage restarts.
+v1.0.197
+- New unit Target Mode now presses R one step at a time and verifies the configured priority after every press. It stops only after the selected target is confirmed, or reports that one full cycle could not be confirmed.
