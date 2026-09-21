@@ -1,2 +1,2 @@
-v1.0.197
-- New unit Target Mode now presses R one step at a time and verifies the configured priority after every press. It stops only after the selected target is confirmed, or reports that one full cycle could not be confirmed.
+v1.0.198
+- Python now upscales the small Start Game, ContinueEx, and ContinueEx1 detection boxes four times before OCR, matching the reliable AHK button-detection method and mapping text positions back to the correct Roblox click point.
