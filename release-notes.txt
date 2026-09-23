@@ -1,2 +1,3 @@
-v1.0.201
-- Restored R-key Target Mode cycling for newly placed units. Existing unit target changes continue to use the regular target menu.
+v1.0.202
+- Removed the Expedition fixed-button position setup controls from the runtime dashboard.
+- Existing saved fixed prompt positions remain available to the macro.
