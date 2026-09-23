@@ -1,5 +1,3 @@
-v1.0.207
-- Camera setup now runs only once per Expedition match.
-- Python exclusively handles in-game Start and Continue prompts, preventing duplicate ContinueEx clicks.
-- ContinueEx1 is clicked as soon as its detection box recognizes the confirmation prompt.
-- Replaced fixed Start Game and ContinueEx1 position controls with a ContinueEx detection-box setup button.
+v1.0.209
+- Restored reliable Expedition card selection with duplicate-panel protection.
+- ContinueEx now ignores the adjacent Extract action and directs combined text detection to Continue.
