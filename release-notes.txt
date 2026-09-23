@@ -1,2 +1,2 @@
-v1.0.200
-- Fixed Expedition navigation handoff: once AHK confirms the selected Match Details, it immediately starts camera setup and publishes the ready state to Python. This removes the stalled secondary camera-request step.
+v1.0.201
+- Restored R-key Target Mode cycling for newly placed units. Existing unit target changes continue to use the regular target menu.
