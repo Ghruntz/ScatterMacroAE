@@ -1,4 +1,2 @@
-v1.0.205
-- Restored the Expedition Start Game and ContinueEx1 position setup controls.
-- Start Game is prioritized immediately after card screens clear.
-- Python is now the only Expedition card selector, preventing duplicate picks and reporting every detected card in each choice set.
+v1.0.206
+- ContinueEx now waits one second before ContinueEx1 in both Expedition prompt handlers.
