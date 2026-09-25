@@ -1,5 +1,5 @@
-v1.0.214
-- Improved Expedition card reading and watcher recovery.
-- Simplified action output messages.
-- Removed the ContinueEx detection setup tool and its leftover runtime reference.
-- Repaired release compilation.
+v1.0.215
+- Select recognized Expedition cards immediately using existing priority and unpicked-card preference.
+- Removed the all-three-names requirement and repeated five-pass OCR delay.
+- Keep the card watcher registered through temporary pauses and reward overlays.
+- Block another card click while the selected panel is still visible.
