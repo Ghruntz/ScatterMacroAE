@@ -1,5 +1,3 @@
-v1.0.218
-- Attempt every card title column before choosing.
-- Limit enlarged retries once a known card is available; never block selection solely because fewer than three names were recognized.
-- Preserve card priority and preference for cards not yet selected.
-- Log the text read from unclear columns to diagnose missing titles.
+v1.0.219
+- Add Flame Mastery to both Expedition card catalogs.
+- Stop reporting fading card titles as new choices after a selection.
