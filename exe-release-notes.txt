@@ -1,5 +1,3 @@
-v1.0.216
-- Read each of the three Expedition card title columns separately.
-- Retry unclear columns at higher magnification and wait for three identified choices before selecting.
-- Prefer exact card names and support wrapped titles when clicking.
-- Move the cursor to the top center of the Roblox viewport after Expedition clicks.
+v1.0.217
+- Park the cursor at the top center only after selecting an Expedition card.
+- Restore normal cursor behavior for all other macro clicks.
