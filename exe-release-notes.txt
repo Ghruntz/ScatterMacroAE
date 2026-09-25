@@ -1,5 +1,5 @@
-v1.0.215
-- Select recognized Expedition cards immediately using existing priority and unpicked-card preference.
-- Removed the all-three-names requirement and repeated five-pass OCR delay.
-- Keep the card watcher registered through temporary pauses and reward overlays.
-- Block another card click while the selected panel is still visible.
+v1.0.216
+- Read each of the three Expedition card title columns separately.
+- Retry unclear columns at higher magnification and wait for three identified choices before selecting.
+- Prefer exact card names and support wrapped titles when clicking.
+- Move the cursor to the top center of the Roblox viewport after Expedition clicks.
