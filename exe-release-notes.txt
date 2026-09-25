@@ -1,1 +1,5 @@
-Start Game now checks every 50 ms with immediate OCR attempts and faster focus before clicking.
+v1.0.214
+- Improved Expedition card reading and watcher recovery.
+- Simplified action output messages.
+- Removed the ContinueEx detection setup tool and its leftover runtime reference.
+- Repaired release compilation.
