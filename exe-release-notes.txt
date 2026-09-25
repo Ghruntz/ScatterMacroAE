@@ -1,3 +1,5 @@
-v1.0.217
-- Park the cursor at the top center only after selecting an Expedition card.
-- Restore normal cursor behavior for all other macro clicks.
+v1.0.218
+- Attempt every card title column before choosing.
+- Limit enlarged retries once a known card is available; never block selection solely because fewer than three names were recognized.
+- Preserve card priority and preference for cards not yet selected.
+- Log the text read from unclear columns to diagnose missing titles.
