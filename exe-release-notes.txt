@@ -1,3 +1,4 @@
-v1.0.219
-- Add Flame Mastery to both Expedition card catalogs.
-- Stop reporting fading card titles as new choices after a selection.
+v1.0.220
+- Require three recognized card choices before logging the full detected list and selecting.
+- Retry only unresolved card columns at alternate magnifications within each reading cycle.
+- Report incomplete readings without selecting from a partial set.
