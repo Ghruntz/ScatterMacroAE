@@ -1,4 +1,5 @@
-v1.0.220
-- Require three recognized card choices before logging the full detected list and selecting.
-- Retry only unresolved card columns at alternate magnifications within each reading cycle.
-- Report incomplete readings without selecting from a partial set.
+v1.0.221
+- Restore Expedition and Challenge navigation button position tools on runtime.
+- Handle reward, victory, and defeat screens while waiting for expedition prompts.
+- Reset setup state and card history when repeating an expedition.
+- Preserve the requirement to recognize all three cards before choosing.
