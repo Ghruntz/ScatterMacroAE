@@ -1,5 +1,5 @@
-v1.0.222
-- Improve unread card title retries with padded crops and high-contrast text processing.
-- Preserve successful columns within a scan and require all three recognized cards before selection.
-- Add runtime navigation position setup for Story, Raid, and Challenges.
-- Remove Expedition navigation setup from runtime and migrate its position to 630, 390 once.
+v1.0.223
+- Wait for the configured victory/defeat webhook before repeating an Expedition.
+- Retry failed result notifications without leaving the result screen.
+- Prevent duplicate result counts and recheck Repeat Stage after delivery.
+- Stop cancels the wait without clicking Repeat Stage.
