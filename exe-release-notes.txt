@@ -1,5 +1,5 @@
-v1.0.221
-- Restore Expedition and Challenge navigation button position tools on runtime.
-- Handle reward, victory, and defeat screens while waiting for expedition prompts.
-- Reset setup state and card history when repeating an expedition.
-- Preserve the requirement to recognize all three cards before choosing.
+v1.0.222
+- Improve unread card title retries with padded crops and high-contrast text processing.
+- Preserve successful columns within a scan and require all three recognized cards before selection.
+- Add runtime navigation position setup for Story, Raid, and Challenges.
+- Remove Expedition navigation setup from runtime and migrate its position to 630, 390 once.
