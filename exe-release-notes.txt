@@ -1,4 +1,8 @@
-v1.0.224
-- Add missing Light Penetration to both card catalogs.
-- Retry unclear card titles in narrower overlapping title bands.
-- Apply updated Story (598,124), Raid (881,125), and Challenge (871,244) navigation positions once.
+v1.0.225
+- Remove temporary navigation position setup buttons, preserving saved coordinates.
+- Retain unit index placement controls and existing reward detection behavior.
+- Replace RewardScreen with the supplied FindText pattern, including a one-time migration for existing settings.
+- Simplify Action Output and remove internal implementation names and timing details.
+- Show recognized card names by slot, marking missing titles Unread while retrying.
+- Reduce Continue confirmation delay to one second.
+- Keep reward detection active throughout Expeditions, including repeated stages, until Stop.
