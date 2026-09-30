@@ -1,5 +1,4 @@
-v1.0.223
-- Wait for the configured victory/defeat webhook before repeating an Expedition.
-- Retry failed result notifications without leaving the result screen.
-- Prevent duplicate result counts and recheck Repeat Stage after delivery.
-- Stop cancels the wait without clicking Repeat Stage.
+v1.0.224
+- Add missing Light Penetration to both card catalogs.
+- Retry unclear card titles in narrower overlapping title bands.
+- Apply updated Story (598,124), Raid (881,125), and Challenge (871,244) navigation positions once.
