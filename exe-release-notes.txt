@@ -1,4 +1,4 @@
-v1.0.228
-- After detecting rewards, left-click the Roblox client center with a 500 ms minimum delay between clicks.
-- Continue through reward animations until Victory or Defeat is detected, with a Repeat Stage safety guard.
-- Respect Pause and Stop throughout reward dismissal.
+v1.0.229
+- Silently retry ContinueEx when the confirmation does not appear.
+- Retry a still-visible ContinueEx1 and check for dismissal after clicking.
+- Preserve the one-second confirmation delay and card/result priority.
