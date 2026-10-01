@@ -1,7 +1,4 @@
-v1.0.227
-- Focus Roblox before dismissing rewards; tolerate brief reward animations and stop reward clicks at result/repeat screens.
-- Gate Expedition repeat clicks on result notification handling and read saved Discord settings directly.
-- Explain missing webhook or disabled result notifications in Action Output.
-- Retry card reading before reporting incomplete choices.
-- Simplify unit setup status to Watching for cards.
-- Includes the updater helper-process shutdown repair from v1.0.226.
+v1.0.228
+- After detecting rewards, left-click the Roblox client center with a 500 ms minimum delay between clicks.
+- Continue through reward animations until Victory or Defeat is detected, with a Repeat Stage safety guard.
+- Respect Pause and Stop throughout reward dismissal.
