@@ -1,4 +1,7 @@
-v1.0.229
-- Silently retry ContinueEx when the confirmation does not appear.
-- Retry a still-visible ContinueEx1 and check for dismissal after clicking.
-- Preserve the one-second confirmation delay and card/result priority.
+v1.0.231
+- Replace reward and victory/defeat patterns with configured text-reading boxes.
+- Add runtime setup buttons for Reward Screen and shared Victory / Defeat detection.
+- Set both boxes before starting Expeditions: reward box over Click anywhere to continue, result box over Victory / Defeat.
+- Park the cursor at the top-center of Roblox after Start Game and Continue prompt clicks.
+- Expedition result webhooks say Complete; repeat still waits for enabled notification delivery.
+- Includes Hydro Penetration from the pending v1.0.230 build.
