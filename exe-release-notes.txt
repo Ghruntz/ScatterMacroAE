@@ -1,7 +1,5 @@
-v1.0.231
-- Replace reward and victory/defeat patterns with configured text-reading boxes.
-- Add runtime setup buttons for Reward Screen and shared Victory / Defeat detection.
-- Set both boxes before starting Expeditions: reward box over Click anywhere to continue, result box over Victory / Defeat.
-- Park the cursor at the top-center of Roblox after Start Game and Continue prompt clicks.
-- Expedition result webhooks say Complete; repeat still waits for enabled notification delivery.
-- Includes Hydro Penetration from the pending v1.0.230 build.
+v1.0.233
+- Add Terra Penetration as Epic Elementalist in both card catalogs.
+- Anchor text boxes to the attached Roblox window and clip scans to its client area.
+- Enlarge the Repeat Stage button area for reading, with a full-window fallback.
+- Includes the pending multi-pass existing-match startup detection fix.
