@@ -1,1 +1,1 @@
-Handle consecutive card screens without a blank gap. Re-arm reward/result monitoring across Repeat Stage. Show changed nonempty reward/result OCR readings in Action Output instead of diagnostic INI writes. Preserve pause/stop and card history rules.
+Improve small dim rewards text with 5x enlargement and dim-text thresholds. Remove raw scan output. Use the supplied Repeat Stage pattern after notification completion, skipping notification when no webhook is configured. Retry the result handoff until the pattern click succeeds.
