@@ -1,3 +1,6 @@
-v1.0.235
-- Apply the supplied Card 1, Card 2, and Card 3 client-relative detection coordinates once.
-- Preserve subsequent manual adjustments and keep the card setup tools available.
+v1.0.237
+- Add Neutral Mastery as Rare Elementalist; confirm Neutral Penetration remains Epic Elementalist.
+- Remove timestamps, Card accepted messages, and card-box setup buttons from Action Output/runtime.
+- Keep result detection running during reward dismissal and across repeat setup.
+- Rotate text enlargement/contrast on end-screen scans.
+- Verify that only the selected card enters history; unselected choices remain eligible.
