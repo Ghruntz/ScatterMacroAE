@@ -1,1 +1,1 @@
-Improve reward/result OCR with a dim-text contrast pass and conservative text matching. Ignore reward counters. Record latest end-screen reads and screen boxes in end-screen-diagnostics.ini. Preserve saved boxes and webhook-before-repeat behavior.
+Handle consecutive card screens without a blank gap. Re-arm reward/result monitoring across Repeat Stage. Show changed nonempty reward/result OCR readings in Action Output instead of diagnostic INI writes. Preserve pause/stop and card history rules.
