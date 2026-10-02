@@ -1,1 +1,1 @@
-Remove Wins and Losses fields from Expedition webhook embeds. Keep Complete title and uptime/run statistics. Other modes remain unchanged.
+Add SET REPEAT STAGE BOX runtime tool without overwriting coordinates. Add repeat OCR fallback using saved box. Shorten repeat click hover, log repeat detection, prioritize confirmed results, and refresh focus/composition before end-screen captures.
