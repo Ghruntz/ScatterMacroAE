@@ -1,1 +1,1 @@
-Shorten card OCR retry cycles, try contrast earlier, and stop reading immediately when all three titles are found. Preserve selection history and all-three-card requirement. Five-second target is not a guaranteed OCR deadline.
+Improve reward/result OCR with a dim-text contrast pass and conservative text matching. Ignore reward counters. Record latest end-screen reads and screen boxes in end-screen-diagnostics.ini. Preserve saved boxes and webhook-before-repeat behavior.
