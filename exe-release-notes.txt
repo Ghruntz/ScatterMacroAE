@@ -1,7 +1,3 @@
-v1.0.234
-- Replace shared card region with Card 1, Card 2, and Card 3 title boxes and runtime setup buttons.
-- Remove reward/result setup buttons and save the supplied client-relative coordinates once.
-- Add Terra Mastery as Rare Elementalist.
-- Retry unaccepted card clicks and record accepted choices only after panel dismissal or a changed panel.
-- Never select an already accepted card during the same run; history resets on a new run or Repeat Stage.
-- Keep card guard scans separate from selector state to avoid conflicting updates.
+v1.0.235
+- Apply the supplied Card 1, Card 2, and Card 3 client-relative detection coordinates once.
+- Preserve subsequent manual adjustments and keep the card setup tools available.
