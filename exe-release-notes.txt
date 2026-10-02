@@ -1,1 +1,1 @@
-Restore SET REWARDS BOX and SET VICTORY / DEFEAT BOX on the Expedition runtime dashboard. Existing coordinates are preserved.
+Apply updated Reward Screen and Result Screen detection boxes once. Remove both runtime setup tools. Later user adjustments remain preserved.
