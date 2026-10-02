@@ -1,1 +1,1 @@
-Improve small dim rewards text with 5x enlargement and dim-text thresholds. Remove raw scan output. Use the supplied Repeat Stage pattern after notification completion, skipping notification when no webhook is configured. Retry the result handoff until the pattern click succeeds.
+Remove Wins and Losses fields from Expedition webhook embeds. Keep Complete title and uptime/run statistics. Other modes remain unchanged.
